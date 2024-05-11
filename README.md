@@ -1,5 +1,6 @@
 # juquinha
-##Esqueça as letras miúdas e os menus confusos! 😄
+
+## Esqueça as letras miúdas e os menus confusos! 😄
 
 Este chatbot é o melhor amigo digital para quem já passou dos 60! 👵👴 Com ele, usar aplicativos se torna fácil e divertido como uma conversa entre amigos. 💬
 
